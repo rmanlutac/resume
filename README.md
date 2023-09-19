@@ -1,2 +1,1 @@
-# resume
-Repo for my resume
+#This is a repo for my resume file.
